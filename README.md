@@ -5,7 +5,7 @@ Since SOUND VOLTEX EXCEED GEAR コナステ uses DX9Ex, we need to hook into `Di
 
 ## Usage
 
-1. Copy `d3d9.dll` and `chainload.txt` to the `game/app` directory.
+1. Copy `d3d9.dll` and `chainload.txt` to the `game/modules` directory.
 2. Add a line to the `chainload.txt` file containing a path to a library.
 3. Launch the game.
 
