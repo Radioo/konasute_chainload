@@ -1,6 +1,7 @@
-# infinitas_chainload
+# konasute_chainload
 
-Proxy `d3d9.dll` for auto-loading libraries during game startup.
+Proxy `d3d9.dll` for auto-loading libraries during game startup.  
+Since SOUND VOLTEX EXCEED GEAR コナステ uses DX9Ex, we need to hook into `Direct3DCreate9Ex`. Other than that, this utility should work the same as its INFINITAS counterpart.  
 
 ## Usage
 
